@@ -26,4 +26,4 @@ e como elas funcionam.
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmreis&show_icons=true)
-![Github Stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=jmreis&layout=compact&theme=radical&langs_count=10&hide_border=true")
+<a href="https://github.com/PabloEmidio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmreis&layout=compact&theme=radical&langs_count=10&hide_border=true"></a>
