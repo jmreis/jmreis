@@ -26,5 +26,5 @@ e como elas funcionam.
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmreis&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmreis&langs_count=8)](https://github.com/jmreis)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmreis&layout=compact)](https://github.com/jmreis)
 
