@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Jair!</strong>
+## Olá, meu nome é <strong>Jair!</strong>
 
 > Estou cursando Engenharia da Computação na UNIVESP,
 sou um entusiasta de tecnologia. Gosto muito de aprender coisas novas,
