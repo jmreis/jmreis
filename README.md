@@ -4,8 +4,6 @@
 sou um entusiasta de tecnologia. Gosto muito de aprender coisas novas,
 e como elas funcionam.
 
-🔭 Atualmente desenvolvo projetos pessoais para fins de aprendizado.
-
 
 ----
 
