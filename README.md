@@ -29,4 +29,3 @@ e como elas funcionam.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmreis&layout=compact)](https://github.com/jmreis)
 
 ---
-![Snake animation](https://github.com/jmreis/jmreis/blob/output/github-contribution-grid-snake.svg)
