@@ -4,7 +4,7 @@
 um entusiasta de tecnologia. Gosto muito de aprender novidades tecnológicas.
 
 ----
-<img src="https://tryhackme-badges.s3.amazonaws.com/forray.png">
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/forray.png">-->
 
 ## 🚀 Minhas Skills
 <!--
