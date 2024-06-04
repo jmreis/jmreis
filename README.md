@@ -1,8 +1,7 @@
 ## Olá, meu nome é <strong>Jair!</strong>
 
-> Estou cursando Engenharia da Computação na UNIVESP,
-sou um entusiasta de tecnologia. Gosto muito de aprender coisas novas,
-e como elas funcionam.
+> Sou formado em Engenharia da Computação pela UNIVESP,
+um entusiasta de tecnologia. Gosto muito de aprender novidades tecnológicas.
 
 ----
 <img src="https://tryhackme-badges.s3.amazonaws.com/forray.png">
